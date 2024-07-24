@@ -1,2 +1,2 @@
 # Ninjargon Script
- Repository for the standarization and compilation of the Ninjargon Script, from the TV show LEGO Ninjago
+ Repository for the standarization and compilation of the Ninjargon Script, from the TV show LEGO Ninjago.
