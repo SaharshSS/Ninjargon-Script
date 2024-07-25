@@ -9,6 +9,8 @@ Repository for the standarization and compilation of the Ninjargon Script, from 
 
 ## For a table to learn the Ninjargon Script, look at [Ninjargon Script](<https://github.com/SaharshSS/Ninjargon-Script/blob/main/Ninjargon%20Script.pdf/>)
 
+### Fonts such as this can be added to type in Ninjargon: [Ninjargon Font](<https://fonts2u.com/ninjargon-regular.font/>)
+
 ## What is the Ninjargon Script?
 
   * The Ninjargon Script is an alphabet, defined by the Unicode Consortium as "A writing system in which both consonants and vowels are indicated." It has letters that corrolate to the 26 letters of the English Latin Alphabet, but it lacks ***cases***, i.e. there is no uppercase or lowercase in Standard Ninjargon. Save for this, it is a simple substitution cipher of the English language, and defaults to the American spelling of words.
